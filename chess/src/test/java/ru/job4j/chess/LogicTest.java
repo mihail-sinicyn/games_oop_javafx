@@ -29,4 +29,3 @@ public class LogicTest {
         logic.move(Cell.A1, Cell.A7);
     }
 }
-/**/
